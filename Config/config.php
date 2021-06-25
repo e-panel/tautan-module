@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'name' => 'Banner Management', 
-    'version' => '1.1.0'
+    'name' => 'Tautan Module', 
+    'version' => '2.0.0'
 ];
