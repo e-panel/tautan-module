@@ -1,6 +1,7 @@
 {
     "name": "e-panel/tautan-module",
     "description": "Tautan (Banner) Management for Epanel.",
+    "type": "laravel-module", 
     "authors": [
         {
             "name": "Noviyanto Rahmadi",
