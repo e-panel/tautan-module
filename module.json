@@ -1,0 +1,13 @@
+{
+    "name": "Tautan",
+    "alias": "tautan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tautan\\Providers\\TautanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
