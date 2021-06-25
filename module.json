@@ -1,13 +1,15 @@
 {
     "name": "Tautan",
     "alias": "tautan",
-    "description": "",
+    "description": "Modul Tautan untuk E-Panel.",
     "keywords": [],
     "priority": 0,
     "providers": [
         "Modules\\Tautan\\Providers\\TautanServiceProvider"
     ],
-    "aliases": {},
+    "aliases": {
+        "Tautan": "Modules\\Tautan\\Entities\\Tautan"
+    },
     "files": [],
     "requires": []
 }
